@@ -1,0 +1,1 @@
+# -furkanilgenci-homebridge-lg-thinq
